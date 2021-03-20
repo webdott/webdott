@@ -33,13 +33,13 @@ If you wish, you can find me on these platforms:
 &nbsp;
 
 ## :chart_with_upwards_trend:   My Github and WakaTime Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caspero-62&show_icons=true&theme=radical&border_radius=10" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caspero-62&theme=radical&border_radius=10" />
 </a>
 
 &nbsp;
 
-[![Webdot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Webdot&v=2&theme=radical&border_radius=10)](https://github.com/caspero-62/github-readme-stats)
+[![Webdot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=webdot&theme=radical&border_radius=10)](#)
