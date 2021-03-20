@@ -1,5 +1,5 @@
 
-## My Github and WakaTime Stats
+## :chart_with_upwards_trend: My Github and WakaTime Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caspero-62&show_icons=true&theme=radical&border_radius=10" />
 </a>
