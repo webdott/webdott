@@ -1,0 +1,17 @@
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: '00 11 * * *'
+
+jobs:
+  update-Readme:
+    name: Automatically update my README  
+    runs-on: ubuntu-latest
+    steps:
+      - uses: caspero-62/coding-stats-wakatime@v2.0.0
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_MONTHLY: false
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_ACTION: ${{ github.action }}
