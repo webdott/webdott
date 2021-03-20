@@ -1,3 +1,11 @@
+![Nwafor's Github Banner](https://res.cloudinary.com/webdot/image/upload/v1616273413/twitter-banner_1_eimahk.png)
+
+Hello there :wave:,
+
+I am Nwafor Uchcehukwu, also known as Webdot:spider:. I am a frontend developer based in Lagos State, Nigeria; specializing in building nice and scalable web apps using React Js and SASS.
+
+I also love writing about concepts and topics learnt during my tech journey. Check out my blog at [hashnode](https://nwaforuchechukwu.hashnode.dev).
+
 
 ## :chart_with_upwards_trend: My Github and WakaTime Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
