@@ -11,7 +11,7 @@ I also love writing about concepts and topics learnt during my tech journey. Che
 ## :handshake:   Let's Connect
 If you wish, you can find me on these platforms:
 
-- LinkedIn: linkedin.com/in/nwaforuchechukwu
+- LinkedIn: [linkedin.com/in/nwaforuchechukwu](https://linkedin.com/in/nwaforuchechukwu)
 - Twitter: [@__webdot](https://twitter.com/__webdot)
 - Mail: nwaforuchechukwu2007@gmail.com
 
