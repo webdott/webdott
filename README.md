@@ -4,7 +4,7 @@ Hello there :wave:,
 
 I am Nwafor Uchechukwu, but you can call me Webdot:spider:. I am a front-end developer at [Swirge](https://www.swirge.com/) and based in Lagos State, Nigeria :nigeria:; specializing in building nice and scalable web apps using React Js and SASS.
 
-I also love writing about concepts and topics learnt during my tech journey. Check out my blog at [hashnode](https://nwaforuchechukwu.hashnode.dev).
+I also love writing about concepts and topics learnt during my tech journey. Check out my blog at [hashnode](https://blog.uchechukwunwafor.codes/).
 
 &nbsp;
 
