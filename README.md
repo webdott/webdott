@@ -34,10 +34,10 @@ If you wish, you can find me on these platforms:
 
 ## :chart_with_upwards_trend:   My Github and WakaTime Stats
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=caspero-62&show_icons=true&theme=radical&border_radius=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=webdott&show_icons=true&theme=radical&border_radius=10" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caspero-62&theme=radical&border_radius=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdott&theme=radical&border_radius=10" />
 </a>
 
 &nbsp;
