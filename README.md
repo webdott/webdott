@@ -42,4 +42,4 @@ If you wish, you can find me on these platforms:
 
 &nbsp;
 
-[![Webdot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=webdott&theme=radical&border_radius=10)](#)
+[![Webdot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=caspero-62&theme=radical&border_radius=10)](#)
