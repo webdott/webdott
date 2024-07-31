@@ -2,9 +2,9 @@
 
 Hello there :wave:,
 
-I am Uchechukwu Nwafor, but you can call me Webdot:spider:. I am a front-end Software Engineer based in Lagos State, Nigeria :nigeria:; specializing in building nice and scalable web apps using React Js and SASS.
+I am Uchechukwu Nwafor, but you can call me Webdot🕷️. I am a front-end Software Engineer based in Lagos State, Nigeria 🇳🇬; specializing in building nice and scalable web apps.
 
-I also love writing about concepts and topics learnt during my tech journey. Check out my blog at [hashnode](https://blog.uchechukwunwafor.codes/).
+I also love writing about concepts and topics learnt during my tech journey. Check out my blog at [hashnode](https://nwaforuchechukwu.hashnode.dev/).
 
 &nbsp;
 
