@@ -11,8 +11,8 @@ I also love writing about concepts and topics learnt during my tech journey. Che
 If you wish, you can find me on these platforms:
 
 - [LinkedIn](https://linkedin.com/in/nwaforuchechukwu)
-- [X@__webdot](https://twitter.com/__webdot)
-- [✉️](mailto:nwaforuchechukwu2007@gmail.com)
+- [X @__webdot](https://twitter.com/__webdot)
+- [✉️ Mail](mailto:nwaforuchechukwu2007@gmail.com)
 
 &nbsp;
 ## Technologies and Tools:
@@ -32,7 +32,7 @@ If you wish, you can find me on these platforms:
 </p>
 
 &nbsp;
-## :chart_with_upwards_trend:   My Github and WakaTime Stats
+## :chart_with_upwards_trend:  My Github and WakaTime Stats
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=webdott&show_icons=true&theme=radical&border_radius=10" />
 </a>
@@ -46,5 +46,5 @@ If you wish, you can find me on these platforms:
 &nbsp;
 ## 🎵 What I'm Listening to?
 <div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/eyl8ia59t98sycrxzotbekbdj)
+  [[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=eyl8ia59t98sycrxzotbekbdj&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=eyl8ia59t98sycrxzotbekbdj&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=6c4eb1&bar_color_cover=false)]]
 </div>
