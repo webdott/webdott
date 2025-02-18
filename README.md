@@ -48,5 +48,5 @@ If you wish, you can find me on these platforms:
 &nbsp;
 ## 🎵What I'm Listening to?
 <div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/eyl8ia59t98sycrxzotbekbdj)
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/eyl8ia59t98sycrxzotbekbdj)]
 </div>
