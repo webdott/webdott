@@ -34,7 +34,6 @@ If you wish, you can find me on these platforms:
 </p>
 
 &nbsp;
-
 ## :chart_with_upwards_trend:   My Github and WakaTime Stats
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=webdott&show_icons=true&theme=radical&border_radius=10" />
@@ -44,5 +43,10 @@ If you wish, you can find me on these platforms:
 </a>
 
 &nbsp;
-
 [![Webdot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=webdot&theme=radical&border_radius=10)](#)
+
+&nbsp;
+## 🎵What I'm Listening to?
+<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/eyl8ia59t98sycrxzotbekbdj)
+</div>
