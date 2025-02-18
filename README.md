@@ -30,16 +30,17 @@ If you wish, you can find me on these platforms:
 </p>
 
 ## :chart_with_upwards_trend:  My Github and WakaTime Stats
-<div style="display:flex;flex-direction:row;gap:6px;flex-wrap:wrap;">
+<div style="display:flex;flex-direction:row;gap:16px;flex-wrap:wrap;">
   <a href="#" style="display:block">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=webdott&show_icons=true&theme=radical&border_radius=2" height="150" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=webdott&show_icons=true&theme=radical&border_radius=2" height="200" />
   </a>
   <a href="#" style="display:block">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdott&theme=radical&border_radius=2" height="150" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdott&theme=radical&border_radius=2" height="200" />
+  </a>
+  <a href="#" style="display:block">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=webdot&theme=radical&border_radius=2" height="200" />
   </a>
 </div>
-
-[![Webdot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=webdot&theme=radical&border_radius=10)](#)
 
 ## 🎵 What I'm Listening to?
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=eyl8ia59t98sycrxzotbekbdj&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=ab4eb1&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=eyl8ia59t98sycrxzotbekbdj&redirect=true)
