@@ -30,14 +30,14 @@ If you wish, you can find me on these platforms:
 </p>
 
 ## :chart_with_upwards_trend:  My Github and WakaTime Stats
-<div style="display:flex;flex-direction:row;column-gap:16px;flex-wrap:wrap;justify-content:space-between">
-  <a href="#" style="display:block">
+<div style="display:flex;flex-direction:row;column-gap:16px;flex-wrap:wrap;justify-content:space-evenly">
+  <a href="#" style="display:block;margin-bottom:8px">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=webdott&show_icons=true&theme=radical&card_width=280&rank_icon=github&border_radius=2" height="170" />
   </a>
-  <a href="#" style="display:block">
+  <a href="#" style="display:block;margin-bottom:8px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdott&theme=radical&layout=compact&border_radius=2" height="170" />
   </a>
-  <a href="#" style="display:block">
+  <a href="#" style="display:block;margin-bottom:8px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=webdot&theme=radical&border_radius=2" height="170" />
   </a>
 </div>
