@@ -46,5 +46,5 @@ If you wish, you can find me on these platforms:
 &nbsp;
 ## 🎵 What I'm Listening to?
 <div align="center">
-  [[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=eyl8ia59t98sycrxzotbekbdj&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=eyl8ia59t98sycrxzotbekbdj&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=6c4eb1&bar_color_cover=false)]]
+  [![https://spotify-github-profile.kittinanx.com/api/view.svg?uid=eyl8ia59t98sycrxzotbekbdj&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=eyl8ia59t98sycrxzotbekbdj&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=6c4eb1&bar_color_cover=false]]
 </div>
