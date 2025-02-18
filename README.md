@@ -2,7 +2,7 @@
 
 Hello there :wave:,
 
-I am Uchechukwu Nwafor, but you can call me Webdot🕷️. I am a front-end Software Engineer based in Lagos State, Nigeria 🇳🇬; specializing in building highly functional and scalable web apps.
+I am Uchechukwu Nwafor, but you can call me Webdot🕷️. I am a Software Engineer based in Lagos State, Nigeria 🇳🇬; specializing in building highly functional and scalable web apps.
 
 I also love writing about concepts and topics learnt during my tech journey. Check out my blog at [hashnode](https://nwaforuchechukwu.hashnode.dev/).
 
@@ -11,9 +11,9 @@ I also love writing about concepts and topics learnt during my tech journey. Che
 ## :handshake:   Let's Connect
 If you wish, you can find me on these platforms:
 
-- LinkedIn: [linkedin.com/in/nwaforuchechukwu](https://linkedin.com/in/nwaforuchechukwu)
-- Twitter: [@__webdot](https://twitter.com/__webdot)
-- Mail: nwaforuchechukwu2007@gmail.com
+- [LinkedIn](https://linkedin.com/in/nwaforuchechukwu)
+- [X@__webdot](https://twitter.com/__webdot)
+- [✉️](mailto:nwaforuchechukwu2007@gmail.com)
 
 &nbsp;
 
@@ -48,5 +48,5 @@ If you wish, you can find me on these platforms:
 &nbsp;
 ## 🎵What I'm Listening to?
 <div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/eyl8ia59t98sycrxzotbekbdj)]
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/eyl8ia59t98sycrxzotbekbdj)
 </div>
