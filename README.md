@@ -32,13 +32,13 @@ If you wish, you can find me on these platforms:
 ## :chart_with_upwards_trend:  My Github and WakaTime Stats
 <div style="display:flex;flex-direction:row;column-gap:16px;flex-wrap:wrap;justify-content:space-between">
   <a href="#" style="display:block">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=webdott&show_icons=true&theme=radical&card_width=280&rank_icon=github&border_radius=2" height="180" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=webdott&show_icons=true&theme=radical&card_width=280&rank_icon=github&border_radius=2" height="150" />
   </a>
   <a href="#" style="display:block">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdott&theme=radical&layout=compact&border_radius=2" height="180" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdott&theme=radical&layout=compact&border_radius=2" height="150" />
   </a>
   <a href="#" style="display:block">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=webdot&theme=radical&border_radius=2" height="180" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=webdot&theme=radical&border_radius=2" height="150" />
   </a>
 </div>
 
