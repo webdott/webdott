@@ -7,7 +7,6 @@ I am Uchechukwu Nwafor, but you can call me Webdot🕷️. I am a Software Engin
 I also love writing about concepts and topics learnt during my tech journey. Check out my blog at [hashnode](https://nwaforuchechukwu.hashnode.dev/).
 
 &nbsp;
-
 ## :handshake:   Let's Connect
 If you wish, you can find me on these platforms:
 
@@ -16,7 +15,6 @@ If you wish, you can find me on these platforms:
 - [✉️](mailto:nwaforuchechukwu2007@gmail.com)
 
 &nbsp;
-
 ## Technologies and Tools:
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="40" style="vertical-align:top; margin:4px" />
@@ -46,7 +44,7 @@ If you wish, you can find me on these platforms:
 [![Webdot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=webdot&theme=radical&border_radius=10)](#)
 
 &nbsp;
-## 🎵What I'm Listening to?
+## 🎵 What I'm Listening to?
 <div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/eyl8ia59t98sycrxzotbekbdj)
 </div>
